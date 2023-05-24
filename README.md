@@ -6,6 +6,10 @@ This module help to learn Authentication and Authorization in express.js API Usi
 ## Clone project:
 
       gh repo clone dharmendra9503/Authentication-and-Authorization-Using-JWT
+      
+Run command:
+      
+      npm install
 
 
 
